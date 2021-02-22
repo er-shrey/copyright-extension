@@ -3,11 +3,12 @@
   "displayName": "developer-copyright",
   "description": "Copyright comment add on all pages",
   "publisher": "ShreyKumarJain",
+  "icon": "images/license.png",
   "repository": {
     "type": "git",
     "url": "git://github.com/er-shrey/copyright-extension"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.53.0"
   },
